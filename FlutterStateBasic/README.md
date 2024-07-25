@@ -1,16 +1,4 @@
 # flutter_state_basic
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "https://github.com/user-attachments/assets/14502393-d8ef-42b0-9408-3bf0afd8a120" width="30%" height="30%">
+<img src = "https://github.com/user-attachments/assets/9a14e5d9-06f3-4d51-910a-8c4b82f16188" width="30%" height="30%">
