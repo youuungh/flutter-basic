@@ -1,16 +1,4 @@
 # flutter_insta_clone
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "https://github.com/user-attachments/assets/b991f0d9-7196-4658-9b76-162b3b7d29e8" width="30%" height="30%">
+<img src = "https://github.com/user-attachments/assets/6966f693-2143-4bd7-99c2-09fc7e728f95" width="30%" height="30%">
