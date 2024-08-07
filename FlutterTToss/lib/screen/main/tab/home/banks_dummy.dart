@@ -1,4 +1,4 @@
-  import 'package:flutter_ttoss/common/constants.dart';
+import 'package:flutter_ttoss/common/constants.dart';
 
 import 'vo/vo_bank.dart';
 
