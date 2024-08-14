@@ -1,16 +1,7 @@
 # flutter_todo
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "https://github.com/user-attachments/assets/50ca3be8-3a87-494b-8da3-a97cb34def6c" width="30%" height="30%">
+<img src = "https://github.com/user-attachments/assets/397ea768-0e5a-421d-b8e6-c5517602b18f" width="30%" height="30%">
+<img src = "https://github.com/user-attachments/assets/6fd91abf-5162-482c-9649-ae9f884e18fa" width="30%" height="30%">
+<img src = "https://github.com/user-attachments/assets/d3b63619-796b-418f-a2af-7c2bdd1c8e2e" width="30%" height="30%">
+<img src = "https://github.com/user-attachments/assets/4de8a567-7143-4cef-a215-7f47d68c7055" width="30%" height="30%">
