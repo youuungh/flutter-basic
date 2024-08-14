@@ -1,16 +1,9 @@
 # flutter_ttoss
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "https://github.com/user-attachments/assets/d7e06cd2-af67-4644-a993-9a3b086dbf18" width="30%" height="30%">
+<img src = "https://github.com/user-attachments/assets/d8cc5440-3c72-4d47-8ef2-4468ab70edde" width="30%" height="30%">
+<img src = "https://github.com/user-attachments/assets/254444d8-8605-40b8-906f-fa68a1b77aff" width="30%" height="30%">
+<img src = "https://github.com/user-attachments/assets/ff84ca9e-ee0b-4b61-8f10-a2ad93b6da95" width="30%" height="30%">
+<img src = "https://github.com/user-attachments/assets/a498ecbc-d09a-4106-94a6-20c3a004b917" width="30%" height="30%">
+<img src = "https://github.com/user-attachments/assets/68b63bfb-4e8c-44d6-bd88-0fa94a732e86" width="30%" height="30%">
+<img src = "https://github.com/user-attachments/assets/b14a56dd-b86a-4aed-bae9-1dbf930e0345" width="30%" height="30%">
