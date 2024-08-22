@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "483572728009",
+    "project_id": "testdaangn",
+    "storage_bucket": "testdaangn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483572728009:android:2605a3cbe48f8c70034d18",
+        "android_client_info": {
+          "package_name": "com.example.flutter_daangn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYC2LNPfM7Z_wC27euByBwN2mOPMQz8Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
